@@ -14,6 +14,7 @@
 ✅ **음성 감정 분석**  <br>
 ✅ **WebRTC 기반 실시간 스트리밍 지원**  <br>
 ✅ **모바일 및 웹 최적화** <br>
+✅ **사투리 번역 기능 지원**
 (++ 공부하며 기능을 추가해 나갈 예정입니다.)
 <br>
 
@@ -22,12 +23,34 @@
 </p>
 <br>
 
+⭐Git 커밋 생성 규칙
+
+```
+feat    : 기능 추가
+fix     : 버그 수정
+docs    : 문서 수정
+style   : 단순 수정 (세미콜론, 코드 이동, 띄어쓰기, 이름 변경)
+rename  : 추가된 기능, 별 내용 없이 폴더 및 파일만 추가, 폴더 및 파일 이름 변경
+refactor: 코드 리팩토링
+test    : 테스트 추가
+study   : 학습 내용
+```
+
+작성 예시
+feat: 음성 번역 기능 추가
+fix: 스크롤 이슈 수정
+study: CNN논문 학습 내용 업로드
+
+
+
+
 💬 **문의 및 협업 제안** → [이메일](mailto:eksgk0401@gmail.com)  
 <br>
 **Github**
 - 팀장: [김단하](https://github.com/daanhaa)
 - 팀원: [김세진](https://github.com/segenie)
 - 팀원: [임승우](https://github.com/WooSeung00)
+
 
 
 
